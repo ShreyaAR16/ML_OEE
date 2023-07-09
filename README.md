@@ -28,5 +28,8 @@ For each training example d, do
 
 ![image](https://github.com/ShreyaAR16/ML_OEE/assets/78254931/ab60b922-6ca2-4e52-bbff-a09f4227a134)
 
+Dataset:
+
+![image](https://github.com/ShreyaAR16/ML_OEE/assets/78254931/ebfc353d-97a4-45c1-9553-b950a870ec14)
 
 
